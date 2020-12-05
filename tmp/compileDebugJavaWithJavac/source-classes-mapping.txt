@@ -1,0 +1,2 @@
+com/corpuz/implicitandexplicitintents/BuildConfig.java
+ com.corpuz.implicitandexplicitintents.BuildConfig
